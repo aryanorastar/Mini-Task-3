@@ -1,0 +1,1 @@
+/Users/astar/College/Programming/Intership\ program/BlockSeBlock/Mini\ Task\ -\ 3/student_grade_calculator/target/debug/student_grade_calculator: /Users/astar/College/Programming/Intership\ program/BlockSeBlock/Mini\ Task\ -\ 3/student_grade_calculator/src/main.rs
